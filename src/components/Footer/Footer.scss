@@ -1,0 +1,21 @@
+footer {
+    background-color: #707070;
+    color: #fff;
+    height: 97px;
+    padding: 2rem;
+    .container {
+        display: flex;
+        justify-content: space-between;
+        vertical-align: middle;
+        align-items: center;
+        gap: 1rem;
+    }
+    div {
+        display: flex;
+        align-items: center;
+    }
+    img {
+        margin: 0.5rem;
+    }
+
+}

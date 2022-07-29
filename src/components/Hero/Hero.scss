@@ -1,0 +1,24 @@
+.hero {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 526px;
+    background-image: url('./../../../public/assets/img/banner.jpg');
+    background-position: center;
+    width: 100%;
+    color: #fff;
+    
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+    p {
+        font-size: 2rem;
+        font-weight: lighter;
+        opacity: .75;
+    }
+
+    .container {
+        width: 100%;
+    }
+}

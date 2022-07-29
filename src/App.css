@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Helvetica, Sans-Serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  box-sizing: border-box;
+  padding: 0 1.4rem;
+  max-width: 1296px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+body {
+  background-color: #ebebeb;
+}
+.m-top-2 {
+  margin-top: 2rem;
+}
