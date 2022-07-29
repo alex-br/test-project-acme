@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-project-acme/static/css/main.e4263967.css",
+    "main.js": "/test-project-acme/static/js/main.b523b23e.js",
+    "static/media/contact_bg.png": "/test-project-acme/static/media/contact_bg.2fccde9219f9587009f2.png",
+    "static/media/banner.jpg": "/test-project-acme/static/media/banner.f9f8ddf21d945c79a4b0.jpg",
+    "index.html": "/test-project-acme/index.html",
+    "main.e4263967.css.map": "/test-project-acme/static/css/main.e4263967.css.map",
+    "main.b523b23e.js.map": "/test-project-acme/static/js/main.b523b23e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4263967.css",
+    "static/js/main.b523b23e.js"
+  ]
+}
